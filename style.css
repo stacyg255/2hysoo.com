@@ -8,3 +8,30 @@
   <a href="branding.html">Branding</a>
   <a href="advDez.html">Advanced Design</a>
 </nav> 
+
+body {hi!
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+}
+
+nav {
+    background: #333;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+img {
+    max-width: 400px;
+    display: block;
+    margin: 10px 0;
+}
+
+h1 {
+    color: #333;
+}
