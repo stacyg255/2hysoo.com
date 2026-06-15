@@ -19,5 +19,4 @@
 
 ## Goals
 - Build a professional design portfolio
-- Improve my web design skills
-- Pursue a career in Graphic Design
+- Pursue a career in nursing
