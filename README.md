@@ -1,6 +1,6 @@
 # 2hysoo.com
 
-# Hi, I'm Stacy 👋
+# Hi, I'm Stacy 
 
 🎨 Graphic Design CTE Student
 
